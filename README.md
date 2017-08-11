@@ -2,7 +2,7 @@
 Attendance for Com Arch. class 
 
 classs 1
-divide & coungyer
+divide & conquer
 1 7 6
 11 3
 1 2 6 7 11
