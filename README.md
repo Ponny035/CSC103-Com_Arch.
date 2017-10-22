@@ -14,4 +14,4 @@ Big(O)
   binary search
 	4 times
 	log(n)
-	Home work 4 on this Tue
+	Home work 4 on this Tue but I already finish
